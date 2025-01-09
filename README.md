@@ -1,9 +1,9 @@
 ## Hi, It's me Hafizd! Welcome to my PlaaaaaaaaaygrOoooooound🧠👋
 
-- 🔭 I’m currently working on United Tractors Group as Data Analyst
-- 🌱 I’m currently learning end-to-end business decision making process
-- 👯 I’m looking to collaborate on data projects
-- 📫 How to reach me: @hafizdharka
+- 🔭 currently working on United Tractors Group as Data Analyst
+- 🌱 learning end-to-end business decision making process
+- 👯 looking to collaborate on data projects
+- 📫 How to reach me: instagram.com/hafizdharka / hafizdbepo@gmail.com
 - 😄 Pronouns: Hafizd
 - ⚡ Fun fact: broke
 
