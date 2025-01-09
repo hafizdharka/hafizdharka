@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hafizdharka?theme=chartreuse&font=Andika%20New%20Basic&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/harkamuhammad?theme=wtf&font=Poppins&ext=activity)
 
 <!--
 **hafizdharka/hafizdharka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
